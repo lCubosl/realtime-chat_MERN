@@ -1,7 +1,3 @@
-todo:
-backend:
-- message routes
-
 front end:
 - signup page
 - login page
