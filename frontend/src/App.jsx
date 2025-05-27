@@ -6,8 +6,10 @@ import SettingsPage from "./pages/SettingsPage";
 import ProfilePage from "./pages/ProfilePage";
 
 import { Routes, Route } from "react-router-dom"
+import axios from "axios";
 
 const App = () => {
+  axios
   return (
     <div>
       <Navbar />
