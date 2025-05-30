@@ -54,7 +54,7 @@ const ChatContainer = () => {
               </time>              
             </div>
 
-            <div className="chat-bubble flex">
+            <div className="chat-bubble flex flex-col">
               {message.image && (
                 <img 
                   src={message.image}
